@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/smit-rakholiya/ZTangent.github.io/static/css/main.b03a44b3.css",
+    "main.js": "/smit-rakholiya/ZTangent.github.io/static/js/main.d71fafad.js",
+    "index.html": "/smit-rakholiya/ZTangent.github.io/index.html",
+    "main.b03a44b3.css.map": "/smit-rakholiya/ZTangent.github.io/static/css/main.b03a44b3.css.map",
+    "main.d71fafad.js.map": "/smit-rakholiya/ZTangent.github.io/static/js/main.d71fafad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b03a44b3.css",
+    "static/js/main.d71fafad.js"
+  ]
+}
