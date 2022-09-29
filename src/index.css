@@ -1,0 +1,99 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: 'Yeseva One', cursive;
+  font-weight:normal ;
+  text-transform: capitalize;
+}
+#header{
+  width: 100%;
+  height: 80vh;
+  margin-top: 70px;
+}
+#header  h1{
+  margin: 0 0 10px 0;
+  font-size: 40px;
+  font-weight: 700;
+  color: black;
+}
+#header h2{
+  color: #484848;
+  font-size: 24px;
+}
+ NavLink .nav-link {
+  font-size: 2rem;
+  text-transform: capitalize;
+}
+NavLink .nav-link:hover{
+  color: #3498db;
+}
+.hr{
+    background-repeat: no-repeat;
+    background-position:center 9px;
+    background-image: linear-gradient(#dcf4f8,#dcf4f8);
+    background-size: 100% 13px;
+}
+
+.brand_name{
+  color: dodgerblue;
+}
+.btn-get-started{
+  border: 2px solid dodgerblue;
+  padding: 12px 20px;
+  border-radius: 50px;
+  color: gray;
+  text-decoration: none;
+}
+.btn-get-started:hover{
+  background-color: #3498db;
+  color: #fff;
+}
+.header_img{
+  text-align: right;
+}
+#header .animated{
+  animation: up-down 2s ease-in-out infinite alternate-reverse both;
+}
+@-webkit-keyframes up-down {
+  0%{
+    transform: translateY(10px);
+  }
+  100%{
+    transform: translateY(-10px);
+  }
+}
+@keyframes up-down {
+  0%{
+    transform: translateY(10px);
+  }
+  100%{
+    transform: translateY(-10px);
+  }
+}
+.img-fluids{
+  width: 516px;
+  height: 362px;
+
+}
+.card_page{
+  width: 100%;
+  height: 100vh;
+}
+
+
+
+
